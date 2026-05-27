@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsptringify",
+        "uuid": 30310104,
+        "checksum": "ssqel3"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
